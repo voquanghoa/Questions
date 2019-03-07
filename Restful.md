@@ -4,7 +4,6 @@
 4. Nêu ý nghĩa và tên gọi của những status code sau
     * 200
     * 201
-    * 300
     * 301
     * 302
     * 404
