@@ -3,7 +3,12 @@ Các câu hỏi về Java
 # Phần cơ bản
 
 1. Ý nghĩa của lệnh import trong java
-2. Lỗi stackoverflow là lỗi gì và thường gặp lúc nào
+2. Những lỗi sau đây là gì và thường gặp lúc nào
+- StackOverflowError
+- ArrayIndexOutOfBoundsException
+- NullPointerException
+- NoSuchMethodException
+
 3. Biến static là gì
 4. Stack và Heap là gì và được sử dụng như thế nào
 5. Tại sao không nên dùng phép so sánh `==` với hai số thực
