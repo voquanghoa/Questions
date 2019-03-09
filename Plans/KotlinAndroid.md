@@ -44,7 +44,7 @@ Chọn 1 trong 2 phần dưới đây.
 1. Basic android
 - Hello world, cấu trúc dự án
 - Constraint layout
-- View, ViewGroup và các build-in
+- View, ViewGroup và các build-in widget
 - Activities
 - Intent và Parcelable
 - Style
@@ -53,13 +53,14 @@ Chọn 1 trong 2 phần dưới đây.
 - Fragment
 - RecyclerView
 - Webview 
+- Animation
 
 3. IO
 - Assets, storage
 - Retrofit
-- Xử lý ảnh và
 - Webview
 - Custom control
+- SQLite
 
 4. Khả năng hỗ trợ
 - Hỗ trợ ngôn ngữ
@@ -81,14 +82,3 @@ Chọn 1 trong 2 phần dưới đây.
 - Setup
 - Nhận message từ app
 - Tạo server đơn giản để xử lý hệ thống
-
-8. Third-party services & libs
-- Scan barcode/qrcode
-- Fabric
-- Deploygate
-
-9. Deploy & publish app
-
-
-
-
