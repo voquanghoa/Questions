@@ -41,7 +41,7 @@ Chọn 1 trong 2 phần dưới đây.
 
 # II. Android
 
-1. Basic android
+## 1. Basic android
 - Hello world, cấu trúc dự án
 - Constraint layout
 - View, ViewGroup và các build-in widget
@@ -49,36 +49,39 @@ Chọn 1 trong 2 phần dưới đây.
 - Intent và Parcelable
 - Style
 
-2. Giao diện nâng cao
+## 2. Giao diện nâng cao
 - Fragment
 - RecyclerView
 - Webview 
 - Animation
 
-3. IO
+## 3. IO
 - Assets, storage
 - Retrofit
 - Webview
 - Custom control
 - SQLite
 
-4. Khả năng hỗ trợ
+## 4. Khả năng hỗ trợ
 - Hỗ trợ ngôn ngữ
 - Hỗ trợ hướng màn hình
 - Hỗ trợ kích cỡ màn hình
 
-5. Google map
+## 5. Google map
 - Setup
 - Vẽ marker
 - Vẽ đường đi
 
-6. Ads
+## 6. Ads
 - Setup
 - Hiển thị banner
 - Hiển thị full-screen ads
 - Ads reward
 
-7. Firebase Cloud Message
+## 7. Firebase Cloud Message
 - Setup
 - Nhận message từ app
 - Tạo server đơn giản để xử lý hệ thống
+
+### 8. Topic tùy chọn
+### 9. Bài tập lớn
