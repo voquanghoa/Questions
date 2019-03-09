@@ -47,10 +47,11 @@
 
 ## 2. Spring MVC
 - Setup
-- AOP
-- Controller and sample API
+- AOP, Java Annontations
+- Controller, router
 - Upload file
 - Exception handling
 - Spring JDBC
 - Spring Hibernate 
+- Validation
 - Spring security
