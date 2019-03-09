@@ -4,7 +4,7 @@
 
 Chọn 1 trong 2 phần dưới đây.
 
-## 1. Java to Kotlin (Nếu bạn ok về Java)
+## 1. Java to Kotlin (Nếu học viên ok về Java)
 
 - Giới thiệu
 - Thay đổi về biến và hàm
@@ -16,7 +16,7 @@ Chọn 1 trong 2 phần dưới đây.
 - Collections
 - Standard functions
 
-## 2. Kotlin from the empty
+## 2. Kotlin from the empty (Nếu học viên không biết hoặc không cứng java)
 
 ### a. Basic Kotlin
 
