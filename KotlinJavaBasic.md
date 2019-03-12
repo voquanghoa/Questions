@@ -43,7 +43,7 @@
 
 18. Nhập vào số nguyên n, in ra dòng thứ n của tam giác pascal [Tam giác pascal](https://vi.wikipedia.org/wiki/Tam_gi%C3%A1c_Pascal)
 
-## II. Mãng số học, chuỗi ký tự
+## II. Mãng số học
 
 Nhập vào mãng số nguyên:
 
@@ -58,30 +58,33 @@ Nhập vào mãng số nguyên:
 9. Tìm số lượng số nguyên tố
 10. Chia mãng thành n phần có số lượng phần tử bằng nhau (Bỏ qua các phần tử ở cuối mãng gốc nếu không chia hết). In ra tổng các phần tử của các mãng con.
 11. In ra mãng con bằng cách đảo các số lẻ với nhau và các số chẵn với nhau. Ví dụ `1 2 4 5 6 7 8 10` thành `7 10 8 5 6 1 4 2`
+12. Sắp xếp mãng theo thứ tự tăng dần. Nhập vào số nguyên x, chèn x vào mãng mà vẫn đảm bảo mãng tăng dần
+
+## III. Xử lý chuỗi
 
 Nhập vào một chuỗi ký tự:
 
-12. Liệt kê các câu. (Các câu cách nhau bởi dấu chấm `.`, chấm hỏi `?`, chấm than `!` và xuống dòng `\n`)
+1. Liệt kê các câu. (Các câu cách nhau bởi dấu chấm `.`, chấm hỏi `?`, chấm than `!` và xuống dòng `\n`)
 
-13. Liệt kê các từ (một từ chỉ chứa a-z,0-9)
+2. Liệt kê các từ (một từ chỉ chứa a-z,0-9)
 
-14. Kiểm tra chuỗi ký tự có đối xứng hay không. (Ví dụ abcdcba là đối xứng)
+3. Kiểm tra chuỗi ký tự có đối xứng hay không. (Ví dụ abcdcba là đối xứng)
 
-15. Tính tổng của các số nguyên trong chuỗi. Ví dụ `abc 123 def 33 mn 3.221` sẽ in ra 380 với 380 = 123+33+3+221
+4. Tính tổng của các số nguyên trong chuỗi. Ví dụ `abc 123 def 33 mn 3.221` sẽ in ra 380 với 380 = 123+33+3+221
 
-16. Tìm các từ xuất hiện trên 2 lần.
+5. Tìm các từ xuất hiện trên 2 lần.
 
-17. Xử lý chuỗi bằng cách biến các ký tự hoa thành ký tự thường, các ký tự thường thành ký tự hoa
+6. Xử lý chuỗi bằng cách biến các ký tự hoa thành ký tự thường, các ký tự thường thành ký tự hoa
 
-18. Không sử dụng hàm tìm kiếm có sẵn, tìm vị trí một chuỗi con.
+7. Không sử dụng hàm tìm kiếm có sẵn, tìm vị trí một chuỗi con.
 
-19. Chuẩn hóa chuỗi bằng các thao tác
+8. Chuẩn hóa chuỗi bằng các thao tác
     - Viết hoa tất cả các chữ cái đầu câu
     - Viết thường tất cả các chữ cái không phải đầu câu
     - Bỏ tất cả các khoảng trống dư thừa
     - Thêm khoảng trắng vào sau các dấu `.,?!`
 
-20. Nhập vào một chuổi ký tự chứa toàn các chữ cái (a-z, A-Z). Rút gọn chuỗi bằng cách ở những nơi chữ cái lặp lại, ta viết số lần lặp. Ví dụ `abcccceeeeeefd` sẽ viết thành `abc4e6fd`, `abbbbbbbbbbbbbc` viết là `ab13c`
+9. Nhập vào một chuổi ký tự chứa toàn các chữ cái (a-z, A-Z). Rút gọn chuỗi bằng cách ở những nơi chữ cái lặp lại, ta viết số lần lặp. Ví dụ `abcccceeeeeefd` sẽ viết thành `abc4e6fd`, `abbbbbbbbbbbbbc` viết là `ab13c`
 
-21. Nhập vào chuổi đã được viết gọn ở câu 22, dịch nó thành chuỗi lúc đầu.
+10. Nhập vào chuổi đã được viết gọn ở câu 22, dịch nó thành chuỗi lúc đầu.
 

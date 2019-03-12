@@ -91,13 +91,3 @@ private interface B{
     private void method();
 }
 ```
-
-
-
-
-
-
-
-
-
-
