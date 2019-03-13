@@ -15,8 +15,8 @@
     - Implement lớp ShapeFactory để khởi tạo đối tượng từ danh sách tham số
 
     TIP:
-    - Khoảng cách giữa 2 điểm ![Khoảng cách giữa hai điểm](https://latex.codecogs.com/gif.download?%5Cdpi%7B120%7D%20%5Clarge%20l%3D%5Csqrt%7B%28x_%7B1%7D-x_%7B2%7D%29%5E%7B2%7D%20+%20%28y_%7B1%7D-y_%7B2%7D%29%5E%7B2%7D%7D)
-    - Diện tích hình tròn ![Diện tích hình tròn](https://latex.codecogs.com/gif.download?%5Cdpi%7B120%7D%20%5Clarge%20S%20%3D%20%5Cpi%20r%5E%7B2%7D)
-    - Chu vi hình tròn ![Diện tích hình tròn](https://latex.codecogs.com/gif.download?%5Cdpi%7B120%7D%20%5Clarge%20S%20%3D%202%5Cpi%20r)
-    - Diện tích tam giác ![Diện tích tam giác](https://latex.codecogs.com/gif.download?%5Cdpi%7B120%7D%20%5Clarge%20S%20%3D%20%5Csqrt%7Bp%28p-a%29%28p-b%29%28p-c%29%7D) với p là nửa chu vi
+    - Khoảng cách giữa 2 điểm ![Khoảng cách giữa hai điểm](https://latex.codecogs.com/gif.latex?l=\sqrt{(x_{1}-x_{2})^{2}&plus;(y_{1}-y_{2})^{2}})
+    - Diện tích hình tròn ![Diện tích hình tròn](https://latex.codecogs.com/gif.latex?S=\pi&space;r^{2})
+    - Chu vi hình tròn ![Diện tích hình tròn](https://latex.codecogs.com/gif.latex?S=2&space;\pi&space;r)
+    - Diện tích tam giác ![Diện tích tam giác](https://latex.codecogs.com/gif.latex?S=\sqrt{p(p-1)(p-b)(p-c)}) với p là nửa chu vi
     - Diện tích tứ giác: Nếu vẽ đường chéo của tứ giác thì sẽ tạo ra 2 tam giác --> Tính tổng diện tích của 2 tam giác đó. Có tới 2 cách vẽ đường chéo --> có 2 tổng diện tích --> lấy min.

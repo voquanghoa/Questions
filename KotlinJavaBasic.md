@@ -9,12 +9,12 @@
 5. Số fibonaci là dãy số bắt đầu từ 1 1 và sau đó, số tiếp theo bằng 2 số trước cộng lại. Tức là `1 1 2 3 5 8 ....`. Nhập vào số nguyên n, in ra danh sách những số fibonaci không lớn hơn n.
 6. Viết phương trình nhập vào hai biến a, b, c và giải phương trình bậc 2: 
 
-    ![Phương trình bậc 2](https://latex.codecogs.com/png.download?%5Cdpi%7B120%7D%20%5Clarge%20ax%5E2+bx+c%3D0)
+    ![Phương trình bậc 2](https://latex.codecogs.com/gif.latex?ax^{2}&plus;bx&plus;c=0)
 
 7. Viết phương trình nhập vào n và in ra tổng của dãy số
-    ![Dãy số](https://latex.codecogs.com/png.download?%5Cdpi%7B120%7D%20%5Clarge%201*2+2*3+3*4+...+%28n-1%29*n)
+    ![Dãy số](https://latex.codecogs.com/gif.latex?1*2&plus;2*3&plus;3*4&plus;...&plus;n(n&plus;1))
 
-8. Viết phương trình nhập vào n và in ra `n! = 1*2*3*...*n`
+8. Viết phương trình nhập vào n và in ra `n!`
 9. Viết chương trình tín pi với độ sai số 0.0001 bằng công thức
     ![Pi](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9e3959cd2d0ec735e7a6a1917df784842b76706)
 9. Viết chương trình tín pi với độ sai số 0.00001 bằng công thức
@@ -24,12 +24,12 @@
 
     Nhập vào số nguyên dương n là số khoảng thời gian, tính số tiền mình sẽ được nhận sau 1 năm.
 11. Tính biểu thức sau đây với n nhập từ bàn phím
-    ![Biểu thức](https://latex.codecogs.com/png.download?%5Cdpi%7B120%7D%20%5Clarge%20S%20%3D%20%5Cfrac%7B1%7D%7B0%21%7D%20+%20%5Cfrac%7B1%7D%7B1%21%7D%20+%20%5Cfrac%7B1%7D%7B2%21%7D%20+%20%5Cfrac%7B1%7D%7B3%21%7D%20+%20...%20+%20%5Cfrac%7B1%7D%7Bn%21%7D)
+    ![Biểu thức](https://latex.codecogs.com/gif.latex?s=\frac{1}{0!}&plus;\frac{1}{1!}&plus;\frac{1}{2!}&plus;\frac{1}{3!}&plus;...&plus;\frac{1}{n!})
 
 12. Tính e với độ chính xác 0.00001 với công thức
     ![E](https://wikimedia.org/api/rest_v1/media/math/render/svg/39a1c93d6f1fda7f20a9e45cd3e6f0c35a5eeb36)
 13. Nhập vào a từ bàn phím, tính căn bậc hai của a với độ chính xác 0.0001 bằng công thức
-    ![Căn](https://latex.codecogs.com/png.download?%5Cdpi%7B120%7D%20%5Clarge%20f%28x%27%29%20%3D%20%5Cfrac%7Bf%28x%29%20+%20%5Cfrac%7Ba%7D%7Bf%28x%29%7D%7D%7B2%7D)
+    ![Căn](https://latex.codecogs.com/gif.latex?e=\sum_{n=0}^{\infty&space;}&space;=&space;\frac{1}{0!}&plus;\frac{1}{1!}&plus;\frac{1}{2!}&plus;\frac{1}{3!}&plus;\frac{1}{4!}...)
 
 14. Nhập a, b, c là 3 cạnh của một tam giác. Kiểm tra tam giác có hợp lệ hay không, nếu tam giác hợp lệ thì in tiếp các thông tin:
     - Diện tích tam giác
