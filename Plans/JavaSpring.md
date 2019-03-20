@@ -45,16 +45,22 @@
 - Mocking test
 - Test coverage
 
-## 2. Spring MVC
+## 2. Spring Boot
 - Setup
-- AOP, Java Annontations
 - Controller, router
-- Upload file
+- Lombok
+- Connect database
 - Exception handling
-- Spring JDBC
-- Spring Hibernate 
-- Validation
 - Spring security
-- SpringBoot
+- Auto configuration
+- Logging
+- Upload file
+- Optimize
+- Email
+- CORS
+- Validation
+- Testing
+- Deployment
+
 
 ## 3. Bài tập lớn
