@@ -7,50 +7,41 @@
 3. Nhập vào một số nguyên dương từ bàn phím, in ra cách phân tích ra thừa số nguyên tố. Ví dụ nhập vào 600 thì cần phải in ra `2 * 2 * 2 * 3 * 5 * 5`
 4. Tương tự bài 3 nhưng cần in 600 thành `2^3 * 3 * 5^2`
 5. Số fibonaci là dãy số bắt đầu từ 1 1 và sau đó, số tiếp theo bằng 2 số trước cộng lại. Tức là `1 1 2 3 5 8 ....`. Nhập vào số nguyên n, in ra danh sách những số fibonaci không lớn hơn n.
-6. Viết phương trình nhập vào hai biến a, b, c và giải phương trình bậc 2: $ax^2+bx+c=0$
+6. Viết phương trình nhập vào hai biến a, b, c và giải phương trình bậc 2: 
 
-7. Viết phương trình nhập vào n và in ra tổng của dãy số $S=1*2+2*3+3*4+...+n(n+1)$
+    ![Phương trình bậc 2](https://latex.codecogs.com/gif.latex?ax^{2}&plus;bx&plus;c=0)
 
-8. Viết phương trình nhập vào n và in ra $n!$
-9.  Viết chương trình tín pi với độ sai số 0.0001 bằng công thức
+7. Viết phương trình nhập vào n và in ra tổng của dãy số
+    ![Dãy số](https://latex.codecogs.com/gif.latex?1*2&plus;2*3&plus;3*4&plus;...&plus;n(n&plus;1))
 
-    $$
-    \pi = \frac{4}{1}-\frac{4}{3}+\frac{4}{5}-\frac{4}{7}+\frac{4}{9}-\frac{4}{11}+\frac{4}{13}+...
-    $$
-10. Viết chương trình tín pi với độ sai số 0.00001 bằng công thức
-    $$
-    \pi=3+\frac{4}{2*3*4}-\frac{4}{4*5*6}+\frac{4}{6*7*8}-\frac{4}{8*9*10}+\frac{4}{10*11*12}+-...
-    $$
-11. Một ngân hàng trả lãi 100% sau 1 năm. Ví dụ mình gửi tiết kiệm 100 đồng thì sau 1 năm mình nhận về 200 đồng. Chia 1 năm thành n khoảng thời gian bằng nhau và tính lãi lũy tiến 100/n. Ví dụ n = 2 thì mình sẽ có mỗi khoảng thời gian là 6 tháng và lãi lũy tiến 50%. Lúc đó số tiền mình nhận được là 225 đồng. (Gốc 100 đồng, sau 6 tháng thành 100 + 50%= 150 đồng, sau 1 năm thành 150 + 50% = 225 đồng)
+8. Viết phương trình nhập vào n và in ra `n!`
+9. Viết chương trình tín pi với độ sai số 0.0001 bằng công thức
+    ![Pi](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9e3959cd2d0ec735e7a6a1917df784842b76706)
+9. Viết chương trình tín pi với độ sai số 0.00001 bằng công thức
+    ![Pi](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdafa8bd24ce2b6fd518a3cf253ad1ef409388a6)
+10. Một ngân hàng trả lãi 100% sau 1 năm. Ví dụ mình gửi tiết kiệm 100 đồng thì sau 1 năm mình nhận về 200 đồng. Chia 1 năm thành n khoảng thời gian bằng nhau và tính lãi lũy tiến 100/n. Ví dụ n = 2 thì mình sẽ có mỗi khoảng thời gian là 6 tháng và lãi lũy tiến 50%. Lúc đó số tiền mình nhận được là 225 đồng. (Gốc 100 đồng, sau 6 tháng thành 100 + 50%= 150 đồng, sau 1 năm thành 150 + 50% = 225 đồng)
 
 
     Nhập vào số nguyên dương n là số khoảng thời gian, tính số tiền mình sẽ được nhận sau 1 năm.
-12. Tính biểu thức sau đây với n nhập từ bàn phím
-    $$
-    e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+...+\frac{1}{n!}
-    $$
+11. Tính biểu thức sau đây với n nhập từ bàn phím
+    ![Biểu thức](https://latex.codecogs.com/gif.latex?s=\frac{1}{0!}&plus;\frac{1}{1!}&plus;\frac{1}{2!}&plus;\frac{1}{3!}&plus;...&plus;\frac{1}{n!})
 
-13. Tính e với độ chính xác 0.00001 với công thức
-    
-    $$
-    e=\sum_{n=0}^\infty{\frac{1}{n!}}=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+...+\frac{1}{n!}
-    $$
-14. Nhập vào a từ bàn phím, tính căn bậc hai của a với độ chính xác 0.0001 bằng công thức
-    $$
-    f(x)=\frac{f(x)}{2} - \frac{a}{2f(x)}
-    $$
+12. Tính e với độ chính xác 0.00001 với công thức
+    ![E](https://wikimedia.org/api/rest_v1/media/math/render/svg/39a1c93d6f1fda7f20a9e45cd3e6f0c35a5eeb36)
+13. Nhập vào a từ bàn phím, tính căn bậc hai của a với độ chính xác 0.0001 bằng công thức
+    ![Căn](https://latex.codecogs.com/gif.latex?e=\sum_{n=0}^{\infty&space;}&space;=&space;\frac{1}{0!}&plus;\frac{1}{1!}&plus;\frac{1}{2!}&plus;\frac{1}{3!}&plus;\frac{1}{4!}...)
 
-15. Nhập a, b, c là 3 cạnh của một tam giác. Kiểm tra tam giác có hợp lệ hay không, nếu tam giác hợp lệ thì in tiếp các thông tin:
+14. Nhập a, b, c là 3 cạnh của một tam giác. Kiểm tra tam giác có hợp lệ hay không, nếu tam giác hợp lệ thì in tiếp các thông tin:
     - Diện tích tam giác
     - Chu vi tam giác
     - Kiểu tam giác (vuông, cân hay bình thường)
-16. Làm lại câu 14 nhưng đầu vào là x1, y1, x2, y2, x3, y3 là tọa độ 3 đỉnh.
+15. Làm lại câu 14 nhưng đầu vào là x1, y1, x2, y2, x3, y3 là tọa độ 3 đỉnh.
 
-17. Tìm những số nguyên n có m chữ số thỏa mãn điều kiện: tổng của các chữ số của n khi lũy thừa hệ số m thì đúng bằng n. Ví dụ n=153 là hợp lệ vì m=3, 1^3 + 5^3 + 3^3 = 153 (Giới hạn 2<=m<=5).
+16. Tìm những số nguyên n có m chữ số thỏa mãn điều kiện: tổng của các chữ số của n khi lũy thừa hệ số m thì đúng bằng n. Ví dụ n=153 là hợp lệ vì m=3, 1^3 + 5^3 + 3^3 = 153 (Giới hạn 2<=m<=5).
 
-18. Số 23 khi viết nhị phân sẽ là 10111 khi viết ngược lại thành 11101 và nó thành số 29. Nhập số nguyên n và tìm số m bằng cách viết ngược thứ tự số binary như trên.
+17. Số 23 khi viết nhị phân sẽ là 10111 khi viết ngược lại thành 11101 và nó thành số 29. Nhập số nguyên n và tìm số m bằng cách viết ngược thứ tự số binary như trên.
 
-19. Nhập vào số nguyên n, in ra dòng thứ n của tam giác pascal [Tam giác pascal](https://vi.wikipedia.org/wiki/Tam_gi%C3%A1c_Pascal)
+18. Nhập vào số nguyên n, in ra dòng thứ n của tam giác pascal [Tam giác pascal](https://vi.wikipedia.org/wiki/Tam_gi%C3%A1c_Pascal)
 
 ## II. Mãng số học
 
