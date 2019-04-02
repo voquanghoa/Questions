@@ -1,13 +1,13 @@
-Bài tập với Testing.
+# Bài tập với Testing.
 
-Rules:
+## Rules:
 
 - Tất cả các bài giải đều được viết unit test
 - Tất cả các hàm được implement đều được có test case trực tiếp
 - Test coverage phải đạt 100%
 - Tất cả các test case đều pass
 
-Bài tập:
+## Bài tập:
 
 1. Một địa chỉ email luôn ở dạng `username@domain`
     - Phần username chỉ được chứa các ký tự thường (chữ và số, dấu gạch dưới) và ký tự đặc biệt `.-`
