@@ -6,4 +6,7 @@
 
 # Câu hỏi về Java
 
-## [Câu hỏi về Java](Java.md)
+## [Câu hỏi về Java](JavaQuestions.md)
+## [Bài tập Java](KotlinJavaBasic.md)
+## [Testing](Testing.md)
+## [Bài tập OOP](OOP.md)
