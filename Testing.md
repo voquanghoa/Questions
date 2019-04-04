@@ -34,3 +34,21 @@
 7. Implement method nhận tham số là hai string, kiểm tra 2 chuỗi đó có bộ ký tự giống nhau (có thể khác về thứ tự) hay không
 
 8. Implement method nhận tham số là mảng số nguyên, ở mỗi số nguyên, ta đảo ngược thứ tự các chữ số để thành một số nguyên mới. Cuối cùng tính tổng các số nguyên đó và trả về kết quả
+
+Bài 9, 10, 11 viết về ngày tháng: cho biết rằng:
+
+- Năm chỉ phù hợp nếu 1900 <= năm <= 3000
+- Ngày tính từ 1 ~ (28, 29, 30, 31 tùy tháng)
+- Tháng chỉ phù hợp nếu 1<= tháng <= 12
+- Các tháng 1, 3, 5, 7, 8, 10, 12 có 31 ngày
+- Các tháng 4, 6, 9, 11 có 30 ngày
+- Tháng 2 có 28 ngày với năm thường, 29 ngày với năm nhuận
+- Năm nhuận là năm thỏa mãn 1 trong 2 điều kiện sau
+    - Chi hết cho 4 nhưng không chia hết cho 100
+    - Chia hết cho 400
+
+9. Implement method nhận tham số là ngày/tháng/năm. Trả về số ngày còn lại trong tháng đó hoặc throw RuntimeException với message là "Invalid date" nếu ngày/tháng/năm không phù hợp.
+
+10. Implement method nhận tham số là ngày/tháng/năm. Trả về số ngày còn lại trong năm đó hoặc throw RuntimeException với message là "Invalid date" nếu ngày/tháng/năm không phù hợp.
+
+11. Implement method nhận tham số là ngày/tháng/năm. Trả về kết quả là thứ trong ngày hoặc throw RuntimeException với message là "Invalid date" nếu ngày/tháng/năm không phù hợp.
