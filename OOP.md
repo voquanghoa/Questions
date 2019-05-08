@@ -20,3 +20,31 @@
     - Chu vi hình tròn ![Diện tích hình tròn](https://latex.codecogs.com/gif.latex?S=2&space;\pi&space;r)
     - Diện tích tam giác ![Diện tích tam giác](https://latex.codecogs.com/gif.latex?S=\sqrt{p(p-1)(p-b)(p-c)}) với p là nửa chu vi
     - Diện tích tứ giác: Nếu vẽ đường chéo của tứ giác thì sẽ tạo ra 2 tam giác --> Tính tổng diện tích của 2 tam giác đó. Có tới 2 cách vẽ đường chéo --> có 2 tổng diện tích --> lấy min.
+
+3. Implement class TimeSpan có
+- Fields
+    - totalSeconds
+- Methods
+    - getDays
+    - getHours
+    - getMinutes
+    - getSeconds
+    - getTotalDays
+    - getTotalHours
+    - getTotalMinutes
+    - getTotalSeconds
+
+- Constructors:
+    - TimeSpan (một đối tượng TimeSpan khác)
+    - totalSeconds
+
+3. Implement class DateTime
+- Fields:
+    - 
+- Constructors:
+    - DateTime (một đối tượng DateTime khác)
+    - year, month, day (throw lỗi nếu số liệu sai)
+    - year, month, day, hour, minute, second (throw lỗi nếu số liệu sai)
+
+- Methods:
+    - Lấy số ngày 
