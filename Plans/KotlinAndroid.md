@@ -1,22 +1,6 @@
 # Kotlin Android plan
 
-# I. Ngôn ngữ
-
-Chọn 1 trong 2 phần dưới đây.
-
-## 1. Java to Kotlin (Nếu học viên ok về Java)
-
-- Giới thiệu
-- Thay đổi về biến và hàm
-- Null safety và safe calls
-- Thay đổi về hướng đối tượng
-- Thay đổi về cú pháp
-- Extension
-- Delegations
-- Collections
-- Standard functions
-
-## 2. Kotlin from the empty (Nếu học viên không biết hoặc không cứng java)
+## 1. Kotlin from the empty
 
 ### a. Basic Kotlin
 
