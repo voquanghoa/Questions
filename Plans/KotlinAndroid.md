@@ -29,6 +29,7 @@
 - Hello world, cấu trúc dự án
 - Constraint layout
 - Activities
+- View, ViewGroup
 - Intent và Parcelable
 - Style
 
