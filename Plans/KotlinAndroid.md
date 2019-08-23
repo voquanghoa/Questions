@@ -28,7 +28,6 @@
 ## 1. Basic android
 - Hello world, cấu trúc dự án
 - Constraint layout
-- View, ViewGroup và các build-in widget
 - Activities
 - Intent và Parcelable
 - Style
